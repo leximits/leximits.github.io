@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px"
+	 viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<title>Oval 1</title>
+<desc>Created with Sketch.</desc>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M45.675,8.46v33.08
+	c0,2.283-1.852,4.135-4.135,4.135H8.46c-2.283,0-4.135-1.853-4.135-4.135V8.46c0-1.439,0.736-2.704,1.848-3.445
+	C6.826,4.577,7.616,4.325,8.46,4.325h33.08c0.844,0,1.633,0.252,2.287,0.691C44.939,5.755,45.675,7.021,45.675,8.46z"/>
+<path stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M45.675,8.239v13.866H4.325V8.239
+	c0-1.347,0.736-2.531,1.848-3.224h37.654C44.939,5.708,45.675,6.892,45.675,8.239z"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="24.793" cy="24.793" r="9.304"/>
+<path fill="#FFFFFF" d="M42.092,12.664c0,0.685-0.555,1.241-1.241,1.241h-4.066c-0.685,0-1.241-0.555-1.241-1.241V8.735
+	c0-0.685,0.555-1.241,1.241-1.241h4.066c0.685,0,1.241,0.555,1.241,1.241V12.664z"/>
+</svg>
