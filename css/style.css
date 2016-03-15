@@ -96,13 +96,13 @@ header .byline {
 
 h2 {
   
-  font-family: 'Poiret One', cursive;
+ /* FONT FAMILY HERE */
   font-size: 40px;
 }
 
 p {
   margin-bottom: 1.5rem;
-  font-family: 'Poiret One', cursive;
+  /* FONT FAMILY HERE */
   padding-bottom: 50px;
 }
 
