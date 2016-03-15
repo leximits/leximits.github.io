@@ -97,12 +97,14 @@ header .byline {
 h2 {
   
  /* FONT FAMILY HERE */
+  font-family: 'Lobster Two', cursive;
   font-size: 40px;
 }
 
 p {
   margin-bottom: 1.5rem;
   /* FONT FAMILY HERE */
+  font-family: 'Lobster Two', cursive;
   padding-bottom: 50px;
 }
 
