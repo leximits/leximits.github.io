@@ -138,10 +138,10 @@ a {
   text-decoration: none;
   transition: all .125s ease-in-out;
 }
-a:hover {
+/*a:hover {
   border-bottom-color: #4a7298;
   color: #4a7298;
-}
+}*/
 
 ul {
   margin-top: -.75rem;
