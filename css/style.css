@@ -133,7 +133,7 @@ hr {
 }
 
 a {
-  border-bottom: 2px solid #333;
+  /*border-bottom: 2px solid #333;*/
   color: #fff;
   text-decoration: none;
   transition: all .125s ease-in-out;
